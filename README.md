@@ -27,7 +27,7 @@ Repository latihan **Git Merge** — tempat kami berlatih *branching workflow*, 
 
 ## 📌 Tentang
 
-**Three Musketeers** adalah repo latihan yang dibuat untuk mempraktikkan kerja tim menggunakan Git mulai dari branching, commit, pull request, sampai resolve conflict, layaknya tiga musketeer yang saling menjaga satu sama lain di medan perang (baca: `git merge`).
+**Latihan-Git-Merge** adalah repo latihan yang dibuat untuk mempraktikkan kerja tim kami yaitu **Three Musketeers** untuk menggunakan Git mulai dari branching, commit, pull request, sampai resolve conflict, layaknya tiga musketeer yang saling menjaga satu sama lain di medan perang (baca: `git merge`).
 
 ## 👥 Anggota Tim
 
